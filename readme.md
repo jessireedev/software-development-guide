@@ -11,4 +11,8 @@ This is my personal guide on how to development software.
 
 ## System
 
-* For users, an email is defaulty case-insensitive unless stated. Take note of that.
+* For users, an email or username is defaulty case-insensitive unless stated. Take note of that. Thus, we need to save them as lowercase (or uppercase?) inside the database.
+
+## Testing
+
+* On creating unit tests, make sure to cover parameters and response testing.
